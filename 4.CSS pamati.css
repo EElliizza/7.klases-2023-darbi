@@ -1,0 +1,48 @@
+h1 {
+    color: rgb(207, 207, 19);
+    background-color: rgb(163, 185, 208);
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+
+p {
+    background-color: rgb(163, 185, 208);
+    text-align: right;
+    line-height: 30px;
+    letter-spacing: 2px;
+    column-count: 3;
+    column-gap: 60px;
+    text-align: justify;
+}
+
+ul {
+    border-width: 4px;
+    border-style: solid;
+    border-color: crimson;
+    
+
+border-bottom: 4px solid blueviolet;
+    /* border-left: 10px border-bottom left radiuss list-style-title::none font-size: */
+}
+
+li{
+    list-style-type:none;
+}
+/* 
+    border-width:4px ;
+    border-style: solid;
+    border-color: crimson;
+
+/*
+}
+
+border-bottom: 4px solid rgb ;
+border-left: 10px
+border-bottom left radiuss
+
+
+
+ list-style-title::none
+ font-size::
